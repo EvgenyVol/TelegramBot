@@ -9,3 +9,14 @@ C:\Users\User\RiderProjects\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\Tele
 C:\Users\User\RiderProjects\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.AssemblyInfo.cs
 C:\Users\User\RiderProjects\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.dll
 C:\Users\User\RiderProjects\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.pdb
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.2\TelegramBot.deps.json
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.2\TelegramBot.runtimeconfig.json
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.2\TelegramBot.runtimeconfig.dev.json
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.2\TelegramBot.dll
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.2\TelegramBot.pdb
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.csprojAssemblyReference.cache
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.AssemblyInfo.cs
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.dll
+C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.2\TelegramBot.pdb

@@ -1,18 +1,17 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\User\\RiderProjects\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+    "projectUniqueName": "C:\\Users\\Uchotka1\\Pictures\\TelegramBot\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
     "projectName": "TelegramBot",
-    "projectPath": "C:\\Users\\User\\RiderProjects\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
-    "outputPath": "C:\\Users\\User\\RiderProjects\\TelegramBot\\TelegramBot\\obj\\",
+    "projectPath": "C:\\Users\\Uchotka1\\Pictures\\TelegramBot\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+    "outputPath": "C:\\Users\\Uchotka1\\Pictures\\TelegramBot\\TelegramBot\\TelegramBot\\obj\\",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
-    "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-      "https://api.nuget.org/v3/index.json": {}
-    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
@@ -32,6 +31,10 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3-beta1, )"
         }
       },
       "imports": [

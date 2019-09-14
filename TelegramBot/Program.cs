@@ -1,12 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace TelegramBot
 {
     class Program
     {
+        private static Dictionary<string, string> Questions;
         static void Main(string[] args)
         {
+            Console.WriteLine("Добро пожаловать! Это бот-помощник. Введите свой вопрос:");
+            
+            var data = System.IO.File.ReadAllText(@"C:\Users\Uchotka1\Pictures\TelegramBot\TelegramBot\TelegramBot\answers.json");
+            Questions = JsonConvert.DeserializeObject<Dictionary<string, string>>(data);
+            
             while (true)
             {
                 var result = AnswerQuestions();
@@ -23,16 +30,7 @@ namespace TelegramBot
             var userQuestion = Console.ReadLine().ToLower();
             
             List<string> Answers = new List<string>();
-
-            Dictionary<string, string> Questions = new Dictionary<string, string>()
-            {
-                {"привет", "Здарово!"},
-                {"как дела", "Все хорошо!"},
-                {"как тебя зовут", "меня зовут бот-помощник Broccoli"},
-                {"чем занимаешься", "Отвечаю на дурацкие вопросы"},
-                {"кто тебя создал", "Евгений Баланин"}
-            };
-
+            
             foreach (var question in Questions)
             {
                 if (userQuestion.Contains(question.Key))
